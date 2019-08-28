@@ -1,0 +1,14 @@
+
+public class Test {
+	public static void main(String[]args){
+	Person aibo =new Person();
+	aibo.name="aibo";
+
+	
+	System.out.println(aibo.name);
+
+	aibo.talk();
+	aibo.walk();
+	aibo.run();	
+	}
+}
