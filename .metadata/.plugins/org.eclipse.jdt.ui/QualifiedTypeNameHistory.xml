@@ -11,4 +11,5 @@
 <fullyQualifiedTypeName name="com.internousdev.webproj2.dao.HelloStrutsDAO"/>
 <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
 <fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
