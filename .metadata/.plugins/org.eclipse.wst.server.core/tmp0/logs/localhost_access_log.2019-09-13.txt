@@ -25,3 +25,7 @@
 0:0:0:0:0:0:0:1 - - [13/Sep/2019:14:45:59 +0900] "GET /WebProj5/ HTTP/1.1" 200 428
 0:0:0:0:0:0:0:1 - - [13/Sep/2019:14:46:01 +0900] "POST /WebProj5/HelloStrutsAction.action HTTP/1.1" 200 709
 0:0:0:0:0:0:0:1 - - [13/Sep/2019:14:46:01 +0900] "GET /WebProj5/css/style.css HTTP/1.1" 404 1063
+127.0.0.1 - - [13/Sep/2019:14:49:29 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [13/Sep/2019:14:49:31 +0900] "GET /WebProj5/ HTTP/1.1" 200 428
+0:0:0:0:0:0:0:1 - - [13/Sep/2019:14:49:33 +0900] "POST /WebProj5/HelloStrutsAction.action HTTP/1.1" 200 709
+0:0:0:0:0:0:0:1 - - [13/Sep/2019:14:49:33 +0900] "GET /WebProj5/css/style.css HTTP/1.1" 200 1396
