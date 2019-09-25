@@ -14,7 +14,7 @@ public class BuyItemDAO {
 		Connection con = db.getConnection();
 		BuyItemDTO buyItemDTO =new BuyItemDTO();
 
-		String sql ="SELECT id, item_name, item_price FROM item_info_transaction";
+		String sql ="SELECT id,item_name,item_price FROM item_info_transaction";
 
 		try{
 			PreparedStatement ps = con.prepareStatement(sql);
@@ -25,6 +25,7 @@ public class BuyItemDAO {
 				buyItemDTO.setItemName(rs.getString("item_name"));
 				buyItemDTO.setItemPrice(rs.getString("item_price"));
 			}
+
 		}catch(Exception e){
 			e.printStackTrace();
 		}

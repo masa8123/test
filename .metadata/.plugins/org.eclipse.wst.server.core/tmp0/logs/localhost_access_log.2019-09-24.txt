@@ -26,3 +26,5 @@
 0:0:0:0:0:0:0:1 - - [24/Sep/2019:15:49:46 +0900] "GET /template/UserCreateAction.action HTTP/1.1" 200 1352
 0:0:0:0:0:0:0:1 - - [24/Sep/2019:15:50:00 +0900] "POST /template/UserCreateConfirmAction.action HTTP/1.1" 200 1230
 0:0:0:0:0:0:0:1 - - [24/Sep/2019:15:50:03 +0900] "POST /template/UserCreateCompleteAction.action HTTP/1.1" 200 515
+127.0.0.1 - - [24/Sep/2019:17:48:21 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [24/Sep/2019:17:48:24 +0900] "GET /template/buyItem.jsp HTTP/1.1" 200 1722

@@ -12,7 +12,6 @@ public class BuyItemDTO {
 		this.itemName = itemName;
 	}
 
-
 	public String getItemPrice(){
 		return itemPrice;
 	}
