@@ -38,7 +38,7 @@ public class LoginAction extends ActionSupport implements SessionAware{
 			return result;
 		}
 		return result;
-}
+	}
 
 	public String getLoginUserId(){
 		return loginUserId;

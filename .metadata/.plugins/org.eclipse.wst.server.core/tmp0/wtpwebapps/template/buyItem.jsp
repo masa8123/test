@@ -25,7 +25,7 @@
 						<span>商品名</span>
 					</td>
 					<td>
-					<s:property value = "session.buyItem_name" />
+							<s:property value = "session.buyItem_name" />
 					</td>
 				</tr>
 
@@ -34,7 +34,7 @@
 						<span>値段</span>
 					</td>
 					<td>
-					<s:property value = "session.buyItem_price" />
+						<s:property value = "session.buyItem_price" />
 							<span>円</span>
 					</td>
 				</tr>
